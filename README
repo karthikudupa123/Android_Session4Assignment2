@@ -1,0 +1,3 @@
+Output is option C
+
+Parent object is created and function call to base class's method is done and again function call to method of same class is done hence printing Parent's method2() and Parent's method1().
